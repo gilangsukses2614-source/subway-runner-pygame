@@ -26,30 +26,6 @@ Pemain menghindari rintangan, mengumpulkan koin, membuka skin, dan memilih level
 - Level selection
 
 ---
-
- 🗂️ Struktur Folder
-├── main.py
-├── save.json
-├── .gitignore
-├── assets
-│ ├── player.png
-│ ├── road1.jpg
-│ ├── obstacle1.png
-│ ├── menu_bg.jpg
-│ ├── skins
-│ │ ├── default.png
-│ │ ├── red.png
-│ │ ├── blue.png
-│ │ ├── gold.png
-│ │ ├── purple.png
-│ │ └── diamond.png
-├── sounds
-│ ├── bgm_game.mp3
-│ ├── bgm_menu.mp3
-│ ├── click.wav
-│ ├── coin.wav
-│ └── crash.wav
-
 💾 Sistem Save Game
 
 Progress game disimpan di file:
